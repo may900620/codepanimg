@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T17:21:59.434Z" agent="5.0 (Windows)" etag="C7-lBsLQm5t9dF65qSwb" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-14T17:23:56.946Z" agent="5.0 (Windows)" etag="KOnlEtatn7kZjivM8RMb" version="15.9.6" type="github" pages="4">
   <diagram id="3pQnXrzSG3vX-jDDkCfl" name="使用個案圖">
     <mxGraphModel dx="2048" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,13 +579,13 @@
         <mxCell id="H_IyGiRTWz5XfIYFhY-K-2" value="使用軟體介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-567" y="442" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="H_IyGiRTWz5XfIYFhY-K-4" value="檢視功能介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="H_IyGiRTWz5XfIYFhY-K-4" value="功能介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-730" y="390" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="H_IyGiRTWz5XfIYFhY-K-5" value="APP下載" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-750" y="447" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="H_IyGiRTWz5XfIYFhY-K-6" value="檢視關於我們" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="H_IyGiRTWz5XfIYFhY-K-6" value="關於我們" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-739.25" y="504.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="H_IyGiRTWz5XfIYFhY-K-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="9a65-50WkR01cHYGv2n2-38" target="9a65-50WkR01cHYGv2n2-38" edge="1">
@@ -1131,7 +1131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O6Qj-YSLkhDLwX9KzICm" name="Page-4">
-    <mxGraphModel dx="2903" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SGvDtynf-c68pi6_7Hsc-0" />
         <mxCell id="SGvDtynf-c68pi6_7Hsc-1" parent="SGvDtynf-c68pi6_7Hsc-0" />
@@ -1701,13 +1701,13 @@
         <mxCell id="SGvDtynf-c68pi6_7Hsc-141" value="使用軟體介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
           <mxGeometry x="-567" y="772" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SGvDtynf-c68pi6_7Hsc-142" value="檢視功能介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
+        <mxCell id="SGvDtynf-c68pi6_7Hsc-142" value="功能介紹" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
           <mxGeometry x="-730" y="720" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SGvDtynf-c68pi6_7Hsc-143" value="APP下載" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
           <mxGeometry x="-750" y="777" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SGvDtynf-c68pi6_7Hsc-144" value="檢視關於我們" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
+        <mxCell id="SGvDtynf-c68pi6_7Hsc-144" value="關於我們" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="SGvDtynf-c68pi6_7Hsc-1">
           <mxGeometry x="-739.25" y="834.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SGvDtynf-c68pi6_7Hsc-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="SGvDtynf-c68pi6_7Hsc-1" source="SGvDtynf-c68pi6_7Hsc-75" target="SGvDtynf-c68pi6_7Hsc-75">
